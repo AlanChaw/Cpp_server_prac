@@ -1,0 +1,159 @@
+20200207 07:35:40.960183Z    68 INFO  pid = 68 - main.cc:13
+20200207 07:35:44.263087Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#1] from 172.17.0.1:40560 - TcpServer.cc:80
+20200207 07:35:44.263122Z    68 INFO  EchoServer - 172.17.0.1:40560 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:44.263149Z    68 INFO  EchoServer-0.0.0.0:2007#1 echo 360 bytes, data received at 1581060944.263133 - echo.cc:39
+20200207 07:35:44.264965Z    68 INFO  EchoServer - 172.17.0.1:40560 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:44.264970Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#1 - TcpServer.cc:109
+20200207 07:35:45.463910Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#2] from 172.17.0.1:40564 - TcpServer.cc:80
+20200207 07:35:45.463934Z    68 INFO  EchoServer - 172.17.0.1:40564 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:45.463992Z    68 INFO  EchoServer-0.0.0.0:2007#2 echo 360 bytes, data received at 1581060945.463980 - echo.cc:39
+20200207 07:35:45.465883Z    68 INFO  EchoServer - 172.17.0.1:40564 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:45.465890Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#2 - TcpServer.cc:109
+20200207 07:35:46.108502Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#3] from 172.17.0.1:40568 - TcpServer.cc:80
+20200207 07:35:46.108543Z    68 INFO  EchoServer - 172.17.0.1:40568 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:46.108752Z    68 INFO  EchoServer-0.0.0.0:2007#3 echo 360 bytes, data received at 1581060946.108738 - echo.cc:39
+20200207 07:35:46.111139Z    68 INFO  EchoServer - 172.17.0.1:40568 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:46.111152Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#3 - TcpServer.cc:109
+20200207 07:35:46.214972Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#4] from 172.17.0.1:40572 - TcpServer.cc:80
+20200207 07:35:46.215015Z    68 INFO  EchoServer - 172.17.0.1:40572 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:46.215206Z    68 INFO  EchoServer-0.0.0.0:2007#4 echo 360 bytes, data received at 1581060946.215191 - echo.cc:39
+20200207 07:35:46.217381Z    68 INFO  EchoServer - 172.17.0.1:40572 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:46.217387Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#4 - TcpServer.cc:109
+20200207 07:35:47.483204Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#5] from 172.17.0.1:40578 - TcpServer.cc:80
+20200207 07:35:47.483229Z    68 INFO  EchoServer - 172.17.0.1:40578 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:47.483849Z    68 INFO  EchoServer-0.0.0.0:2007#5 echo 360 bytes, data received at 1581060947.483764 - echo.cc:39
+20200207 07:35:47.484001Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#6] from 172.17.0.1:40582 - TcpServer.cc:80
+20200207 07:35:47.484035Z    68 INFO  EchoServer - 172.17.0.1:40582 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:47.484060Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#7] from 172.17.0.1:40584 - TcpServer.cc:80
+20200207 07:35:47.484075Z    68 INFO  EchoServer - 172.17.0.1:40584 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:47.484352Z    68 INFO  EchoServer-0.0.0.0:2007#7 echo 360 bytes, data received at 1581060947.484333 - echo.cc:39
+20200207 07:35:47.484376Z    68 INFO  EchoServer-0.0.0.0:2007#6 echo 360 bytes, data received at 1581060947.484333 - echo.cc:39
+20200207 07:35:47.486443Z    68 INFO  EchoServer - 172.17.0.1:40578 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:47.486448Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#5 - TcpServer.cc:109
+20200207 07:35:47.486514Z    68 INFO  EchoServer - 172.17.0.1:40584 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:47.487376Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#7 - TcpServer.cc:109
+20200207 07:35:47.487481Z    68 INFO  EchoServer - 172.17.0.1:40582 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:47.487483Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#6 - TcpServer.cc:109
+20200207 07:35:48.664747Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#8] from 172.17.0.1:40588 - TcpServer.cc:80
+20200207 07:35:48.664828Z    68 INFO  EchoServer - 172.17.0.1:40588 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:48.665145Z    68 INFO  EchoServer-0.0.0.0:2007#8 echo 360 bytes, data received at 1581060948.665112 - echo.cc:39
+20200207 07:35:48.667741Z    68 INFO  EchoServer - 172.17.0.1:40588 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:48.667748Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#8 - TcpServer.cc:109
+20200207 07:35:49.265671Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#9] from 172.17.0.1:40594 - TcpServer.cc:80
+20200207 07:35:49.265708Z    68 INFO  EchoServer - 172.17.0.1:40594 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:49.265986Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#10] from 172.17.0.1:40596 - TcpServer.cc:80
+20200207 07:35:49.266001Z    68 INFO  EchoServer - 172.17.0.1:40596 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:49.266630Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#11] from 172.17.0.1:40600 - TcpServer.cc:80
+20200207 07:35:49.266651Z    68 INFO  EchoServer - 172.17.0.1:40600 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:49.267067Z    68 INFO  EchoServer-0.0.0.0:2007#11 echo 360 bytes, data received at 1581060949.267052 - echo.cc:39
+20200207 07:35:49.267106Z    68 INFO  EchoServer-0.0.0.0:2007#9 echo 360 bytes, data received at 1581060949.267052 - echo.cc:39
+20200207 07:35:49.267124Z    68 INFO  EchoServer-0.0.0.0:2007#10 echo 360 bytes, data received at 1581060949.267052 - echo.cc:39
+20200207 07:35:49.268813Z    68 INFO  EchoServer - 172.17.0.1:40600 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:49.268818Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#11 - TcpServer.cc:109
+20200207 07:35:49.269197Z    68 INFO  EchoServer - 172.17.0.1:40596 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:49.269199Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#10 - TcpServer.cc:109
+20200207 07:35:49.269208Z    68 INFO  EchoServer - 172.17.0.1:40594 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:49.269209Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#9 - TcpServer.cc:109
+20200207 07:35:50.060296Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#12] from 172.17.0.1:40604 - TcpServer.cc:80
+20200207 07:35:50.060354Z    68 INFO  EchoServer - 172.17.0.1:40604 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:50.060806Z    68 INFO  EchoServer-0.0.0.0:2007#12 echo 360 bytes, data received at 1581060950.060789 - echo.cc:39
+20200207 07:35:50.063038Z    68 INFO  EchoServer - 172.17.0.1:40604 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:50.063044Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#12 - TcpServer.cc:109
+20200207 07:35:51.076025Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#13] from 172.17.0.1:40610 - TcpServer.cc:80
+20200207 07:35:51.076079Z    68 INFO  EchoServer - 172.17.0.1:40610 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:51.076096Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#14] from 172.17.0.1:40614 - TcpServer.cc:80
+20200207 07:35:51.077267Z    68 INFO  EchoServer - 172.17.0.1:40614 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:51.077317Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#15] from 172.17.0.1:40616 - TcpServer.cc:80
+20200207 07:35:51.077351Z    68 INFO  EchoServer - 172.17.0.1:40616 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:51.077367Z    68 INFO  EchoServer-0.0.0.0:2007#13 echo 360 bytes, data received at 1581060951.077280 - echo.cc:39
+20200207 07:35:51.077472Z    68 INFO  EchoServer-0.0.0.0:2007#14 echo 360 bytes, data received at 1581060951.077280 - echo.cc:39
+20200207 07:35:51.077685Z    68 INFO  EchoServer-0.0.0.0:2007#15 echo 360 bytes, data received at 1581060951.077629 - echo.cc:39
+20200207 07:35:51.079222Z    68 INFO  EchoServer - 172.17.0.1:40614 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:51.079227Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#14 - TcpServer.cc:109
+20200207 07:35:51.079358Z    68 INFO  EchoServer - 172.17.0.1:40610 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:51.079360Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#13 - TcpServer.cc:109
+20200207 07:35:51.079562Z    68 INFO  EchoServer - 172.17.0.1:40616 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:51.079565Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#15 - TcpServer.cc:109
+20200207 07:35:51.795611Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#16] from 172.17.0.1:40620 - TcpServer.cc:80
+20200207 07:35:51.795635Z    68 INFO  EchoServer - 172.17.0.1:40620 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:51.796339Z    68 INFO  EchoServer-0.0.0.0:2007#16 echo 360 bytes, data received at 1581060951.796322 - echo.cc:39
+20200207 07:35:51.798444Z    68 INFO  EchoServer - 172.17.0.1:40620 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:51.798449Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#16 - TcpServer.cc:109
+20200207 07:35:51.914001Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#17] from 172.17.0.1:40624 - TcpServer.cc:80
+20200207 07:35:51.914051Z    68 INFO  EchoServer - 172.17.0.1:40624 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:51.914725Z    68 INFO  EchoServer-0.0.0.0:2007#17 echo 360 bytes, data received at 1581060951.914672 - echo.cc:39
+20200207 07:35:51.916544Z    68 INFO  EchoServer - 172.17.0.1:40624 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:51.916550Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#17 - TcpServer.cc:109
+20200207 07:35:52.127564Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#18] from 172.17.0.1:40628 - TcpServer.cc:80
+20200207 07:35:52.127629Z    68 INFO  EchoServer - 172.17.0.1:40628 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:52.128631Z    68 INFO  EchoServer-0.0.0.0:2007#18 echo 360 bytes, data received at 1581060952.128608 - echo.cc:39
+20200207 07:35:52.130548Z    68 INFO  EchoServer - 172.17.0.1:40628 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:52.130554Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#18 - TcpServer.cc:109
+20200207 07:35:52.138546Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#19] from 172.17.0.1:40634 - TcpServer.cc:80
+20200207 07:35:52.138682Z    68 INFO  EchoServer - 172.17.0.1:40634 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:52.138710Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#20] from 172.17.0.1:40636 - TcpServer.cc:80
+20200207 07:35:52.138720Z    68 INFO  EchoServer - 172.17.0.1:40636 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:52.139072Z    68 INFO  EchoServer-0.0.0.0:2007#20 echo 360 bytes, data received at 1581060952.139056 - echo.cc:39
+20200207 07:35:52.140010Z    68 INFO  EchoServer-0.0.0.0:2007#19 echo 360 bytes, data received at 1581060952.139056 - echo.cc:39
+20200207 07:35:52.140049Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#21] from 172.17.0.1:40640 - TcpServer.cc:80
+20200207 07:35:52.140062Z    68 INFO  EchoServer - 172.17.0.1:40640 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:52.140069Z    68 INFO  EchoServer-0.0.0.0:2007#21 echo 360 bytes, data received at 1581060952.140065 - echo.cc:39
+20200207 07:35:52.142419Z    68 INFO  EchoServer - 172.17.0.1:40636 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:52.142455Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#20 - TcpServer.cc:109
+20200207 07:35:52.142557Z    68 INFO  EchoServer - 172.17.0.1:40634 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:52.142558Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#19 - TcpServer.cc:109
+20200207 07:35:52.142564Z    68 INFO  EchoServer - 172.17.0.1:40640 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:52.142565Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#21 - TcpServer.cc:109
+20200207 07:35:53.511210Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#22] from 172.17.0.1:40644 - TcpServer.cc:80
+20200207 07:35:53.511264Z    68 INFO  EchoServer - 172.17.0.1:40644 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:53.512285Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#23] from 172.17.0.1:40648 - TcpServer.cc:80
+20200207 07:35:53.512332Z    68 INFO  EchoServer - 172.17.0.1:40648 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:53.512823Z    68 INFO  EchoServer-0.0.0.0:2007#23 echo 360 bytes, data received at 1581060953.512772 - echo.cc:39
+20200207 07:35:53.512869Z    68 INFO  EchoServer-0.0.0.0:2007#22 echo 360 bytes, data received at 1581060953.512864 - echo.cc:39
+20200207 07:35:53.514460Z    68 INFO  EchoServer - 172.17.0.1:40644 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:53.514464Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#22 - TcpServer.cc:109
+20200207 07:35:53.514666Z    68 INFO  EchoServer - 172.17.0.1:40648 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:53.514668Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#23 - TcpServer.cc:109
+20200207 07:35:53.525701Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#24] from 172.17.0.1:40654 - TcpServer.cc:80
+20200207 07:35:53.525741Z    68 INFO  EchoServer - 172.17.0.1:40654 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:53.525751Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#25] from 172.17.0.1:40656 - TcpServer.cc:80
+20200207 07:35:53.525764Z    68 INFO  EchoServer - 172.17.0.1:40656 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:53.527133Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#26] from 172.17.0.1:40660 - TcpServer.cc:80
+20200207 07:35:53.527190Z    68 INFO  EchoServer - 172.17.0.1:40660 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:53.528251Z    68 INFO  EchoServer-0.0.0.0:2007#25 echo 360 bytes, data received at 1581060953.527835 - echo.cc:39
+20200207 07:35:53.528761Z    68 INFO  EchoServer-0.0.0.0:2007#26 echo 360 bytes, data received at 1581060953.527835 - echo.cc:39
+20200207 07:35:53.529181Z    68 INFO  EchoServer-0.0.0.0:2007#24 echo 360 bytes, data received at 1581060953.527835 - echo.cc:39
+20200207 07:35:53.531876Z    68 INFO  EchoServer - 172.17.0.1:40654 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:53.531883Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#24 - TcpServer.cc:109
+20200207 07:35:53.532515Z    68 INFO  EchoServer - 172.17.0.1:40656 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:53.532519Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#25 - TcpServer.cc:109
+20200207 07:35:53.532749Z    68 INFO  EchoServer - 172.17.0.1:40660 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:53.532752Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#26 - TcpServer.cc:109
+20200207 07:35:55.444658Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#27] from 172.17.0.1:40666 - TcpServer.cc:80
+20200207 07:35:55.444690Z    68 INFO  EchoServer - 172.17.0.1:40666 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:55.445035Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#28] from 172.17.0.1:40670 - TcpServer.cc:80
+20200207 07:35:55.445050Z    68 INFO  EchoServer - 172.17.0.1:40670 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:55.445079Z    68 INFO  EchoServer-0.0.0.0:2007#27 echo 360 bytes, data received at 1581060955.445020 - echo.cc:39
+20200207 07:35:55.445122Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#29] from 172.17.0.1:40672 - TcpServer.cc:80
+20200207 07:35:55.445131Z    68 INFO  EchoServer - 172.17.0.1:40672 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:55.445534Z    68 INFO  EchoServer-0.0.0.0:2007#29 echo 360 bytes, data received at 1581060955.445520 - echo.cc:39
+20200207 07:35:55.446208Z    68 INFO  EchoServer-0.0.0.0:2007#28 echo 360 bytes, data received at 1581060955.446185 - echo.cc:39
+20200207 07:35:55.447842Z    68 INFO  EchoServer - 172.17.0.1:40666 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:55.447847Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#27 - TcpServer.cc:109
+20200207 07:35:55.447938Z    68 INFO  EchoServer - 172.17.0.1:40672 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:55.447940Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#29 - TcpServer.cc:109
+20200207 07:35:55.448714Z    68 INFO  EchoServer - 172.17.0.1:40670 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:55.448719Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#28 - TcpServer.cc:109
+20200207 07:35:57.398866Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#30] from 172.17.0.1:40678 - TcpServer.cc:80
+20200207 07:35:57.398904Z    68 INFO  EchoServer - 172.17.0.1:40678 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:57.399271Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#31] from 172.17.0.1:40682 - TcpServer.cc:80
+20200207 07:35:57.399292Z    68 INFO  EchoServer - 172.17.0.1:40682 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:57.399312Z    68 INFO  TcpServer::newConnection [EchoServer] - new connection [EchoServer-0.0.0.0:2007#32] from 172.17.0.1:40684 - TcpServer.cc:80
+20200207 07:35:57.399371Z    68 INFO  EchoServer - 172.17.0.1:40684 -> 172.17.0.2:2007 is UP - echo.cc:29
+20200207 07:35:57.400131Z    68 INFO  EchoServer-0.0.0.0:2007#31 echo 360 bytes, data received at 1581060957.400112 - echo.cc:39
+20200207 07:35:57.400211Z    68 INFO  EchoServer-0.0.0.0:2007#30 echo 360 bytes, data received at 1581060957.400201 - echo.cc:39
+20200207 07:35:57.401024Z    68 INFO  EchoServer-0.0.0.0:2007#32 echo 360 bytes, data received at 1581060957.401002 - echo.cc:39
+20200207 07:35:57.403213Z    68 INFO  EchoServer - 172.17.0.1:40682 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:57.403219Z    68 INFO  TcpServer::removeConnectionInLoop [EchoServer] - connection EchoServer-0.0.0.0:2007#31 - TcpServer.cc:109
+20200207 07:35:57.403395Z    68 INFO  EchoServer - 172.17.0.1:40678 -> 172.17.0.2:2007 is DOWN - echo.cc:29
+20200207 07:35:57.403397Z    68 INFO  TcpServer::removeConnectionInLoop [Ec
